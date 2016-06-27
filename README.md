@@ -1,4 +1,3 @@
 # Code
-Source Code Collection (with permission granted from source, if any)
 
-Stuff
+Repository for Source Code (with permission granted from source, if any)
